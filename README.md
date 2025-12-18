@@ -1,6 +1,6 @@
 ## vivado_factorial
-## REG NUM :
-## NAME :
+## REG NUM :25014334
+## NAME :Santhiya B
 ## EXPERIMENT:4 FACTORIAL OF N USING FUNCTION (VERILOG)
 ## TITLE
 Design and Implementation of Factorial of N Using Verilog Function on Boolean Board (Spartan-7 FPGA)
@@ -121,6 +121,7 @@ Program the Boolean Board
 Toggle switches SW2 SW1 SW0 to give input N
 
 ## OUTPUT
+<img width="975" height="580" alt="image" src="https://github.com/user-attachments/assets/f951fabc-1200-47f9-bd81-9b6a784a0dee" />
 
 ## RESULT
 The factorial of the input number provided using the Boolean Board switches is successfully computed using a Verilog function and displayed on the LEDs.
